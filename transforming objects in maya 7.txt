@@ -1,0 +1,6 @@
+Transforming Objects in Maya - 
+
+Many tools are available to help you move and transform objects and models in Maya. There is an axis key in the bottom left corner of the screen showing the orientation of the axis compared to your camera. On the right side of the screen
+the information related to the x,y,z axis positioning of your model, as well as the angular points for the axis and the scales of your objects are all available. You can edit all the information from that table as well. When moving
+an object, you can use the move tool, hotkey w. It pulls up three arrows and three squares that enable movement. If you move with an arrow it moves it along one of the three axis, whereas the squares allow movement over two of the 
+three axis. If you double click on the move tool, you can edit the axis orientation for the object so that the axis follow the object to make straight diagonal movement possible. This can be achieved by changing the orientation from world to object.

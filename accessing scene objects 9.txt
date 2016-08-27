@@ -1,0 +1,5 @@
+Accessing Scene Objects - 
+
+The attribute editor shows specific information about one piece of geometry. It helps you see and interpret pieces of your model that may be hard to access or mess with. If you go to the windows drop down menu, and click outliner, it opens 
+a list of everything within the scene you are currently using. You can expand all the groups and subgroups of geometry and textures and lighting within the scene, if you have a piece on your model that is difficult to access, this feature helps
+immensly when dealing with something such as that. 

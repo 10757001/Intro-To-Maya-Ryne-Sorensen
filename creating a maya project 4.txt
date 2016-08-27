@@ -1,0 +1,8 @@
+Creating a Maya project - 
+
+Maya has a file button in the top left corner with a drop down menu. At the bottom of this dropdown menu
+there is a Project Window and Set Project button. Project Window allows you to create a new project
+including giving you the ability to choose where it saves to, what it saves, and what folders within
+the project you do and don't keep. You can save the location and name of your project at the top
+of the Project Window. This enables you to save to whatever you want, be that a flash drive, directly to your hard drive
+or a folder on your desktop. 

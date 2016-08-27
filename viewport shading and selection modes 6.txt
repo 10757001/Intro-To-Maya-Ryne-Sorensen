@@ -1,0 +1,6 @@
+Viewport Shading and Selection Modes - 
+
+
+When you create a model in Maya, it helps to be able to see it from many angles, and through differenttypes of filters, if you will. For example, the hotkey "4" toggles on and off the wireframe function, which allows you to see all the edges in your project. "5" toggles shaded mode, this lets you see the basic grey model. There is a button on the upper toolbar that 
+enables a wireframe on shaded function, which makes the wireframe easier to see and decipher. Hotkey "6" toggles on and off any textures you may have implemented into the model. "g7" turns on and off light, within the light menu there are many tipes of light you can choose to see your model under, be that natural, directional, accent, etc. 
+There are many tools used for selecting parts of your model, some of these include your selection tool, hotkey q, and your lasso tool. 

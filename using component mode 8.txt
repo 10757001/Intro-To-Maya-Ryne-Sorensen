@@ -1,0 +1,6 @@
+Using component mode - 
+
+If you hold right click down on an object, a popup menu will appear allowing you to enter different component modes. Some of these modes are object, vertex, edge, and face selection. These can be toggled on through the component mode menu
+through right clicking, as I stated, or using hotkeys. F8 will activate object mode, F9 turns on vertex mode, F10 toggles edge mode, and F11 enables face selection. Only one of these modes can be active at a time, unless you 
+activate multi-component mode, which activates vertex, edge and face selection mode. This can be activated from the Component toolbox or the F7 key. When shaping a model, you can press the hotkey B to activate soft selection mode, which helps soften 
+edges you are reshaping, in order to reduce such a drastic edge.

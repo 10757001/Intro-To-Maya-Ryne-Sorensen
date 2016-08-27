@@ -1,0 +1,7 @@
+Navigating the 3D viewport - 
+
+There are many tools within Maya2017, some of these being the ability to create manipulatable polygons at the click of a button, 
+or tools such as the extruder tool. There are also plenty of functions that you can use to help you move around the 3D grid within the program. 
+Some of these are alt+left click to move your camera around the viewport, alt+middle click to slide the viewport right or left and alt+right click 
+to zoom in and out fairly easily. In addition to alt+click commands, there are preset hotkeys to switch between tools. For example, the hotkey q is 
+designed to intantly switch over to your selection tool, and the hotkey e activates the rotate tool.  
